@@ -1,0 +1,10 @@
+SciDAVis 2.2.7 template file
+<table>	30	2
+geometry	0	0	567	300	active
+header	Força Peso (N)[X]	Distensão Δx (m)[Y]
+ColWidth	120	120	
+<com>
+</com>
+ColType	0;0/6	0;0/6
+Comments			
+</table>
